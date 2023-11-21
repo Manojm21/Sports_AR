@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="football" size="6.000000 6.000000" />
+    <ImageTarget name="kabaddi" size="6.000000 3.375000" />
+    <ImageTarget name="khokho" size="6.000000 3.600000" />
+    <ImageTarget name="volleyball" size="6.000000 3.997500" />
+  </Tracking>
+</QCARConfig>

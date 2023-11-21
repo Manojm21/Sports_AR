@@ -1,5 +1,5 @@
 # Sports_AR
-Welcome to our Marker-Based Augmented Reality app developed with Unity3D and Vuforia Engine! This application 
+Welcome to our Marker-Based Augmented Reality app(Download the ISE_sportsAR1.apk in your smart phones and use) developed with Unity3D and Vuforia Engine! This application 
 Scans image targets to reveal detailed sports models and accompanying information.Simply click on the popped-up 
 links to access engaging sports educational content through related videos, enhancing your overall augmented 
 reality experience.
